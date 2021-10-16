@@ -14,7 +14,7 @@ public class App
         Carroceria carroceria;
         String Tipo;
 
-        System.out.println("Bienvenido, tenemos 2 variaedades de choches, Ford y Astral, Cual quisiera  Conocer?");
+        System.out.println("Bienvenido, tenemos 2 variaedades de choches, Ford focus y Astral Opel, Cual quisiera  Conocer?");
         Tipo = Ingresar.readLine().toLowerCase();
 
 
